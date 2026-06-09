@@ -1,7 +1,12 @@
-﻿namespace TestesProjetoxUnit
+﻿using ProductManagement.Data.Repositories;
+
+namespace TestesProjetoxUnit
 {
     public class UnitTest1
     {
+        
+
+
         [Fact]
         public void Test1()
         {
